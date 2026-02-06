@@ -1,0 +1,2 @@
+rootProject.name = "PilMonitor"
+include ':app'
